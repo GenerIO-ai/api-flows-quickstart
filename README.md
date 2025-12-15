@@ -23,7 +23,7 @@
 Generate a 3D model from a text prompt in just a few minutes.
 
 * **API Key:** [https://account.generio.ai](https://account.generio.ai) → *API Keys*
-* **Base URL:** `https://test-flows.generio.ai`
+* **Base URL:** `https://flows.generio.ai`
 
 ### Minimal Python Example (Text → 3D)
 
