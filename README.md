@@ -383,6 +383,8 @@ for output in outputs:
 
 ## Support
 
+If you encounter any problems or errors, or would like to provide feedback, please feel free to contact us at any time :)
+
 * **Email:** [info@generio.ai](mailto:info@generio.ai)
 * **Discord:** [https://discord.com/invite/8hwcxmgkv3](https://discord.com/invite/8hwcxmgkv3)
 * **Examples:** [https://github.com/GenerIO-ai/api-flows-quickstart](https://github.com/GenerIO-ai/api-flows-quickstart)
