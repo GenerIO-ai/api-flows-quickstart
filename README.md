@@ -2,7 +2,7 @@
 
 **Quick Links:**
 - [GENERIO Homepage](https://generio.ai/)
-- [Complete API Documentation](https://flows.generio.ai/docs)
+- [Complete FLows-API Documentation](https://flows.generio.ai/docs)
 
 ## Table of Contents
 
