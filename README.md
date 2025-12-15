@@ -3,7 +3,6 @@
 **Quick Links:**
 - [GENERIO Homepage](https://generio.ai/)
 - [Complete API Documentation](https://flows.generio.ai/docs)
-- [Example Code Repository](https://github.com/generio-ai/api-examples)
 
 ## Table of Contents
 
