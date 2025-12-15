@@ -1,4 +1,4 @@
-# Quickstart -  Flows API
+# Quickstart - Flows API
 
 **Quick Links:**
 - [GENERIO Homepage](https://generio.ai/)
