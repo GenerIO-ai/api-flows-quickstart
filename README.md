@@ -36,7 +36,7 @@ import time
 
 # Get your API key at: https://account.generio.ai → API Keys tab
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # Define the JSON payload
@@ -285,7 +285,7 @@ import time
 # Get your API key at: https://account.generio.ai → API Keys tab
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # Create and start a flow with text prompt
@@ -355,7 +355,7 @@ import time
 # Get your API key at: https://account.generio.ai → API Keys tab
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # Read and encode image
@@ -444,7 +444,7 @@ import time
 # Get your API key at: https://account.generio.ai → API Keys tab
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # Read and encode the 3D model file
@@ -530,7 +530,7 @@ import requests
 # Get your API key at: https://account.generio.ai → API Keys tab
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 flow_id = "your-flow-id-here"
@@ -599,7 +599,7 @@ import time
 # Get your API key at: https://account.generio.ai → API Keys tab
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 flow_id = "your-flow-id-here"
