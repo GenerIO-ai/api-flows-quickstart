@@ -29,23 +29,6 @@
 
 ### Minimal Example - Generate from Text Prompt
 
-**JSON Payload:**
-```json
-{
-  "template": "model_generate_fromprompt",
-  "parameters": {
-    "quality": "high"
-  },
-  "inputs": [
-    {
-      "data": "A modern office chair",
-      "additional": null
-    }
-  ],
-  "additional": null
-}
-```
-
 **Python Code:**
 ```python
 import requests
