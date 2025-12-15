@@ -134,8 +134,6 @@ You can chain workflows manually:
 ## Prerequisites
 
 * GENERIO account (register at [https://generio.ai](https://generio.ai))
-* Python 3.7+
-* Install the HTTP client: `pip install requests`
 
 ---
 
