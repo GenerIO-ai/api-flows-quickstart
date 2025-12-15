@@ -33,7 +33,7 @@ import time
 
 # Get your API key at: https://account.generio.ai → API Keys tab
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # 1. Create and start a flow
@@ -212,7 +212,7 @@ import requests
 import time
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 payload = {
@@ -259,7 +259,7 @@ import base64
 import time
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 with open("product_image.jpg", "rb") as f:
@@ -309,7 +309,7 @@ import base64
 import time
 
 API_KEY = "your-api-key-here"
-BASE_URL = "https://test-flows.generio.ai"
+BASE_URL = "https://flows.generio.ai"
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 with open("high_poly_model.glb", "rb") as f:
