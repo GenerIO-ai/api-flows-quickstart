@@ -1,15 +1,3 @@
-Nice — your doc is already solid. Here are **surgical fixes** I would apply (and then the **fully corrected Markdown**).
-
-Key fixes included below:
-
-* **Prerequisites**: add Python + `requests` install (you removed it)
-* **Example 1**: currently only shows a `payload` dict (no request/poll/download). Either label it “payload snippet” or make it a full working example. I made it **full** to match expectations.
-* **Example 2**: add the **download step** (currently missing)
-* **Consistency**: `headers` vs `HEADERS`, and consistent `time.sleep(...)`
-* **Image MIME**: you use jpg in example → keep `image/jpeg` (good)
-
----
-
 # GENERIO Flows API Documentation
 
 ## Table of Contents
